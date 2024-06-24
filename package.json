@@ -1,7 +1,7 @@
 {
   "name": "agroroots",
   "version": "0.1.0",
-  "homepage": "https://{douglasarthurr}.github.io/{Agro-Roots}",
+  "homepage": "https://douglasarthurr.github.io/Agro-Roots",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
