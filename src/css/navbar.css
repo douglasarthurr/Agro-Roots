@@ -1,0 +1,149 @@
+:root {
+    --marrom: rgb(53, 37, 24);
+    --verde: rgb(113, 149, 82);
+    --cinza: rgb(234, 230, 218);
+}
+
+@media (min-width: 10px) {
+    .navbar{
+        height: 70px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+    
+    
+        background-color: var(--marrom);
+    }
+    
+    .logo{
+        height: 40px;
+        border-radius: 100%;
+
+        box-shadow: 10px; 
+    }
+    
+    
+    .hrefs{
+        font-size: 12px;
+        text-decoration: none;
+    
+        margin: 5px;
+        padding: 5px 10px 5px 10px;
+    
+        border-radius: 30px;
+    
+        color: black;
+        background-color: white;
+    
+        transition: 0.5s;
+    
+        font-weight: bold;
+        
+    }
+    
+    
+}
+@media (min-width: 768px) {
+        
+    .navbar{
+        height: 65px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        padding: 40px 60px 40px 40px;
+
+        background-color: var(--marrom);
+    }
+
+    .logo{
+        height: 60px;
+        width: 60px;
+        border-radius: 100%;
+
+        box-shadow: 10px; 
+    }
+
+
+    .hrefs{
+        font-size: 15px;
+        text-decoration: none;
+
+        margin: 30px;
+        padding: 10px 15px 10px 15px;
+
+        border-radius: 30px;
+
+        color: black;
+        background-color: white;
+
+        transition: 0.5s;
+
+        font-weight: bold;
+        
+    }
+
+    .hrefs:hover{
+        color:var(--verde);
+        margin: 25px;
+        padding: 13px 18px;
+
+        background-color: var(--cinza);
+
+        font-size: 17px;
+
+
+    } 
+}
+
+/*   
+
+.navbar{
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 40px 60px 40px 40px;
+
+    background-color: var(--marrom);
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+
+    box-shadow: 10px; 
+}
+
+
+.hrefs{
+    text-decoration: none;
+
+    margin: 30px;
+    padding: 10px 15px 10px 15px;
+
+    border-radius: 30px;
+
+    color: black;
+    background-color: white;
+
+    transition: 0.5s;
+
+    font-weight: bold;
+    
+}
+
+.hrefs:hover{
+    color:var(--verde);
+    margin: 25px;
+    padding: 13px 18px;
+
+    background-color: var(--cinza);
+
+    font-size: 17px;
+
+
+} */
