@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/%7BAgro-Roots%7D/static/css/main.239083e3.css",
+    "main.js": "/%7BAgro-Roots%7D/static/js/main.009fc71f.js",
+    "static/js/453.017c8186.chunk.js": "/%7BAgro-Roots%7D/static/js/453.017c8186.chunk.js",
+    "static/media/fundo branco 3.jpg": "/%7BAgro-Roots%7D/static/media/fundo branco 3.cd827c99487bfe6c93ea.jpg",
+    "static/media/logo.jpg": "/%7BAgro-Roots%7D/static/media/logo.20f24fa29c8e9d7a61e2.jpg",
+    "index.html": "/%7BAgro-Roots%7D/index.html",
+    "main.239083e3.css.map": "/%7BAgro-Roots%7D/static/css/main.239083e3.css.map",
+    "main.009fc71f.js.map": "/%7BAgro-Roots%7D/static/js/main.009fc71f.js.map",
+    "453.017c8186.chunk.js.map": "/%7BAgro-Roots%7D/static/js/453.017c8186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239083e3.css",
+    "static/js/main.009fc71f.js"
+  ]
+}
