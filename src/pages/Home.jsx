@@ -2,7 +2,7 @@ import React from "react";
 // import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import '../css/home.css'
-import logo from '../assets/images/logo.jpg'
+
 import Slider from "../components/Slider.jsx"
 
 export default function Home(){
