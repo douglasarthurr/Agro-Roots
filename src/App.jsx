@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Produto from './pages/Produtos';
 import Midias from './pages/Midias';
 import BoneBerrante from './pages/BoneBerrante.jsx';
+import BoneRoots from './pages/BoneRoots.jsx';
 
 
 function App() {
@@ -14,7 +15,8 @@ function App() {
         <Route path='/' element={<Home/>} />
         <Route path='/produto' element={<Produto/>} />
         <Route path='/midias' element={<Midias/>} />
-        <Route path='/produto/bone' element={<BoneBerrante/>} />
+        <Route path='/produto/boneBerrante' element={<BoneBerrante/>} />
+        <Route path='/produto/boneRoots' element={<BoneRoots/>} />
         <Route path='#' element={<h1>NOT FOUND</h1>} />
       </Routes>
     </BrowserRouter>
